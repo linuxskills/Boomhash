@@ -18,7 +18,7 @@ git clone
 ```
 Now enter the following command
 ```
-cd Hash-Buster
+cd Boomhash
 ```
 Now run BoomHash by entering
 ```
@@ -26,11 +26,11 @@ python Boom.py
 ```
 Now you can enter any non-salted MD5/SHA1/SHA2 hash to *crack* it.
 
-<img src='https://i.imgur.com/FrJhTus.png' />
+<img src='https://i.imgur.com/vsYPnbp.png' />
 
 You can also import hashes from a text file as follows
 
-<img src='https://i.imgur.com/ycjp3sk.png' />
+<img src='https://i.imgur.com/HBHw1iz.png' />
 
 ### Contribute
 There isn't much to contribute but you can add support for more hashes and can add more APIs for SHA-1 and SHA-2.
