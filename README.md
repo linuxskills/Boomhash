@@ -30,7 +30,7 @@ Now you can enter any non-salted MD5/SHA1/SHA2 hash to *crack* it.
 
 <img src='https://i.imgur.com/vsYPnbp.png' />
 
-You can also import hashes from a text file as follows
+You can crack any hash in 5 seconds ! simply
 
 <img src='https://i.imgur.com/HBHw1iz.png' />
 
