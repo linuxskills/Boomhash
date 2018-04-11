@@ -1,7 +1,7 @@
 # Boom-Hash
 BoomHash is a python script which uses several online hash crackers to find the password of a hash.<br>
 
-<img src='https://i.imgur.com/PVzXc0z.png' /><br>
+<img src='https://i.imgur.com/yt9EoiO.png' /><br>
 
 Features of Boom-Boom:
 - [x] Detects hash
