@@ -11,16 +11,16 @@ Features of Boom-Boom:
 - [x] Adding more APIs for SHA1 and SHA2
 - [ ] Support for more hashes will be added on request
 
-## Installing and Using Hash Buster
-Open your terminal and enter
+## Installing and Using Boomhash
+Open your terminal and enter :
 ```
-git clone 
+git clone https://github.com/linuxskills/Boomhash
 ```
-Now enter the following command
+Now enter the following command :
 ```
 cd Boomhash
 ```
-Now run BoomHash by entering
+Now run BoomHash Script by entering :
 ```
 python Boom.py
 ```
