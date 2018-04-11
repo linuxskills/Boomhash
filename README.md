@@ -1,5 +1,7 @@
 # Boom-Hash
-BoomHash is a python script which uses several online hash crackers to find the password of a hash.<br>
+BoomHash - is a python script which uses several online hash crackers to find the clear Text of any hash.<br>
+You may have asked yourself, "How do hackers take my password, if the website owner can't?" The answer is simple. When a website stores your login password for the site, it is run through a cryptographic hash function before it enters the database, 
+this script can destroy any hash ! see the Features bellow !!
 
 <img src='https://i.imgur.com/yt9EoiO.png' /><br>
 
@@ -35,4 +37,4 @@ You can also import hashes from a text file as follows
 ### Contribute
 There isn't much to contribute but you can add support for more hashes and can add more APIs for SHA-1 and SHA-2.
 ## Finish
-Please leave your comments down below and give me some loveins. I would gladly take any ways to improve in both my how-to's and my coding. Finally, feel free to test this code out and edit the code as you like. :D
+I would gladly take any ways to improve in both my how-to's and my coding. Finally, feel free to test this code out :D
