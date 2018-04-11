@@ -1,4 +1,9 @@
-# Boom-Hash
+# ____                        _   _           _     _ 
+ | __ )  ___   ___  _ __ ___ | | | | __ _ ___| |__ | |
+ |  _ \ / _ \ / _ \| '_ ` _ \| |_| |/ _` / __| '_ \| |
+ | |_) | (_) | (_) | | | | | |  _  | (_| \__ \ | | |_|
+ |____/ \___/ \___/|_| |_| |_|_| |_|\__,_|___/_| |_(_) © LinuxSkills 
+
 BoomHash - is a python script which uses several online hash crackers to find the clear Text of any hash.<br>
 You may have asked yourself, "How do hackers take my password, if the website owner can't?" The answer is simple. When a website stores your login password for the site, it is run through a cryptographic hash function before it enters the database, 
 this script can destroy any hash ! see the Features bellow !!
@@ -24,7 +29,7 @@ cd Boomhash
 ```
 Now run BoomHash Script by entering :
 ```
-python Boom.py
+python hash.py
 ```
 Now you can enter any non-salted MD5/SHA1/SHA2 hash to *crack* it.
 
