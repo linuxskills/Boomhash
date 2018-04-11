@@ -1,11 +1,6 @@
 
-██████╗  ██████╗  ██████╗ ███╗   ███╗      ██╗  ██╗ █████╗ ███████╗██╗  ██╗
-██╔══██╗██╔═══██╗██╔═══██╗████╗ ████║      ██║  ██║██╔══██╗██╔════╝██║  ██║
-██████╔╝██║   ██║██║   ██║██╔████╔██║█████╗███████║███████║███████╗███████║
-██╔══██╗██║   ██║██║   ██║██║╚██╔╝██║╚════╝██╔══██║██╔══██║╚════██║██╔══██║
-██████╔╝╚██████╔╝╚██████╔╝██║ ╚═╝ ██║      ██║  ██║██║  ██║███████║██║  ██║
-╚═════╝  ╚═════╝  ╚═════╝ ╚═╝     ╚═╝      ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
-                                                       © LinuxSkills 
+<img src='https://i.imgur.com/WkBdnyP.png' /><br>
+                                          © LinuxSkills 
 
 BoomHash - is a python script which uses several online hash crackers to find the clear Text of any hash.<br>
 You may have asked yourself, "How do hackers take my password, if the website owner can't?" The answer is simple. When a website stores your login password for the site, it is run through a cryptographic hash function before it enters the database, 
