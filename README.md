@@ -34,3 +34,5 @@ You can also import hashes from a text file as follows
 
 ### Contribute
 There isn't much to contribute but you can add support for more hashes and can add more APIs for SHA-1 and SHA-2.
+## Finish
+Please leave your comments down below and give me some loveins. I would gladly take any ways to improve in both my how-to's and my coding. Finally, feel free to test this code out and edit the code as you like. :D
