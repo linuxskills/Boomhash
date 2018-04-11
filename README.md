@@ -26,7 +26,7 @@ python Boom.py
 ```
 Now you can enter any non-salted MD5/SHA1/SHA2 hash to *crack* it.
 
-<img src='https://i.imgur.com/yfO6B0u.png' />
+<img src='https://i.imgur.com/FrJhTus.png' />
 
 You can also import hashes from a text file as follows
 
