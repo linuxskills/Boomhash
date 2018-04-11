@@ -37,8 +37,6 @@ You can crack any hash in 5 seconds ! simply
 
 <img src='https://i.imgur.com/HBHw1iz.png' />
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ocwfjpKisko" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 ### Contribute
 There isn't much to contribute but you can add support for more hashes and can add more APIs for SHA-1 and SHA-2.
 ## Finish
