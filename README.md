@@ -36,6 +36,8 @@ Now you can enter any non-salted MD5/SHA1/SHA2 hash to *crack* it.
 You can crack any hash in 5 seconds ! simply
 
 <img src='https://i.imgur.com/HBHw1iz.png' />
+[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://www.youtube.com/watch?v=ocwfjpKisko)
+
 
 ### Contribute
 There isn't much to contribute but you can add support for more hashes and can add more APIs for SHA-1 and SHA-2.
